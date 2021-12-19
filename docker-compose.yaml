@@ -9,8 +9,6 @@ services:
             POSTGRES_DB: main
         ports: [5432]
 
-    ###> symfony/mailer ###
     mailer:
-      image: schickling/mailcatcher
-      ports: [1025, 1080]
-###< symfony/mailer ###
+        image: schickling/mailcatcher
+        ports: [1025, 1080]
