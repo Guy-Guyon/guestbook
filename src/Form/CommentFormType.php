@@ -19,16 +19,18 @@ class CommentFormType extends AbstractType
             ->add('author', null, [
                 'label' => 'Your name',
             ])
-            ->add('text')
-            ->add('email', EmailType::class)
-            ->add('photo', FileType::class, [
+            ->add('text', null, [
+                'label' => 'Text',
+            ])
+            ->add('Email', EmailType::class)
+            ->add('Photo', FileType::class, [
                 'required' => false,
                 'mapped' => false,
                 'constraints' => [
                     new Image(['maxSize' => '1024k'])
                 ],
             ])
-            ->add('submit', SubmitType::class)
+            ->add('Submit', SubmitType::class)
         ;
     }
 

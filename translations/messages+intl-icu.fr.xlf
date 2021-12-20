@@ -5,19 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="eOy4.6V" resname="Conference Guestbook">
+      <trans-unit id="conference_guestbook" resname="Conference Guestbook">
         <source>Conference Guestbook</source>
         <target>Livre d'Or pour Conferences</target>
       </trans-unit>
-      <trans-unit id="LNAVleg" resname="Give your feedback!">
+      <trans-unit id="give_your_feedback" resname="Give your feedback!">
         <source>Give your feedback!</source>
         <target>Donnez votre avis !</target>
       </trans-unit>
-      <trans-unit id="3Mg5pAF" resname="View">
+      <trans-unit id="view" resname="View">
         <source>View</source>
         <target>Sélectionner</target>
       </trans-unit>
-      <trans-unit id="Dg2dPd6" resname="nb_of_comments">
+      <trans-unit id="conference" resname="Conference">
+        <source>Conference</source>
+        <target>Conférence</target>
+      </trans-unit>
+      <trans-unit id="next" resname="Next">
+        <source>Next</source>
+        <target>Suivant</target>
+      </trans-unit>
+      <trans-unit id="previous" resname="Previous">
+        <source>Previous</source>
+        <target>Précédant</target>
+      </trans-unit>
+      <trans-unit id="add" resname="Add your own feedback">
+        <source>Add your own feedback</source>
+        <target>Ajoutez vos propres commentaires</target>
+      </trans-unit>
+      <trans-unit id="com1" resname="No comments have been posted yet for this conference.">
+        <source>No comments have been posted yet for this conference.</source>
+        <target>Aucun commentaire n'a encore été posté pour cette conférence.</target>
+      </trans-unit>
+      <trans-unit id="nb_of_comment" resname="nb_of_comments">
         <source>nb_of_comments</source>
         <target>{count, plural, =0 {Aucun commentaire.} =1 {1 commentaire.} other {# commentaires.}}</target>
       </trans-unit>
