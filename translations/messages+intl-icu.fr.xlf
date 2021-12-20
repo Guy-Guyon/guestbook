@@ -9,6 +9,10 @@
         <source>Conference Guestbook</source>
         <target>Livre d'Or pour Conferences</target>
       </trans-unit>
+      <trans-unit id="admin" resname="Admin">
+        <source>Admin</source>
+        <target>Adminitrateur</target>
+      </trans-unit>
       <trans-unit id="give_your_feedback" resname="Give your feedback!">
         <source>Give your feedback!</source>
         <target>Donnez votre avis !</target>
@@ -36,6 +40,22 @@
       <trans-unit id="com1" resname="No comments have been posted yet for this conference.">
         <source>No comments have been posted yet for this conference.</source>
         <target>Aucun commentaire n'a encore été posté pour cette conférence.</target>
+      </trans-unit>
+      <trans-unit id="please_sign_in" resname="Please sign in">
+        <source>Please sign in</source>
+        <target>Veuillez vous connecter</target>
+      </trans-unit>
+      <trans-unit id="username" resname="Username">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="password" resname="Password">
+        <source>Password</source>
+        <target>Mot de passe</target>
+      </trans-unit>
+      <trans-unit id="sign_in" resname="Sign in">
+        <source>Sign in</source>
+        <target>Connectez-vous</target>
       </trans-unit>
       <trans-unit id="nb_of_comment" resname="nb_of_comments">
         <source>nb_of_comments</source>
