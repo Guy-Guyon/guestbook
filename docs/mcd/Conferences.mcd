@@ -1,0 +1,6 @@
+COMMENT: id, author, text, email, createdAt
+Can be, 11 COMMENT, 1N CONFERENCE
+CONFERENCE: id, city, year, isInternational
+
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="312" height="136" view_box="0 0 312 136"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Thu, 23 Dec 2021 09:09:38</desc>
+
+<rect id="frame" x="0" y="0" width="312" height="136" fill="#ffffbf" stroke="none" stroke-width="0"/>
+
+<!-- Association Can be -->
+<line x1="46" y1="68" x2="144" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="88" y="85.0" fill="#1a9850" font-family="Verdana" font-size="12">1,1</text>
+<line x1="254" y1="68" x2="144" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="178" y="85.0" fill="#1a9850" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-Can be">
+	<path d="M 159 43 a 14 14 90 0 1 14 14 V 68 h -58 V 57 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 173 68.0 v 11 a 14 14 90 0 1 -14 14 H 129 a 14 14 90 0 1 -14 -14 V 68.0 H 58" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+	<rect x="115" y="43" width="58" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="115" y1="68" x2="173" y2="68" stroke="#f46d43" stroke-width="1"/>
+	<text x="122" y="60.7" fill="#000000" font-family="Verdana" font-size="12">Can be</text>
+</g>
+
+<!-- Entity COMMENT -->
+<g id="entity-COMMENT">
+	<g id="frame-COMMENT">
+		<rect x="9" y="9" width="74" height="25" fill="#a6d96a" stroke="#a6d96a" stroke-width="0"/>
+		<rect x="9" y="34.0" width="74" height="93" fill="#d9ef8b" stroke="#d9ef8b" stroke-width="0"/>
+		<rect x="9" y="9" width="74" height="118" fill="none" stroke="#66bd63" stroke-width="2"/>
+		<line x1="9" y1="34" x2="83" y2="34" stroke="#66bd63" stroke-width="1"/>
+	</g>
+	<text x="14" y="26.7" fill="#000000" font-family="Verdana" font-size="12">COMMENT</text>
+	<text x="14" y="51.7" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="14" y1="54" x2="26" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="68.8" fill="#000000" font-family="Verdana" font-size="12">author</text>
+	<text x="14" y="85.8" fill="#000000" font-family="Verdana" font-size="12">text</text>
+	<text x="14" y="102.8" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<text x="14" y="119.8" fill="#000000" font-family="Verdana" font-size="12">createdAt</text>
+</g>
+
+<!-- Entity CONFERENCE -->
+<g id="entity-CONFERENCE">
+	<g id="frame-CONFERENCE">
+		<rect x="205" y="17" width="98" height="25" fill="#a6d96a" stroke="#a6d96a" stroke-width="0"/>
+		<rect x="205" y="42.0" width="98" height="77" fill="#d9ef8b" stroke="#d9ef8b" stroke-width="0"/>
+		<rect x="205" y="17" width="98" height="102" fill="none" stroke="#66bd63" stroke-width="2"/>
+		<line x1="205" y1="42" x2="303" y2="42" stroke="#66bd63" stroke-width="1"/>
+	</g>
+	<text x="212" y="34.7" fill="#000000" font-family="Verdana" font-size="12">CONFERENCE</text>
+	<text x="210" y="59.7" fill="#000000" font-family="Verdana" font-size="12">id</text>
+	<line x1="210" y1="62" x2="222" y2="62" stroke="#000000" stroke-width="1"/>
+	<text x="210" y="76.8" fill="#000000" font-family="Verdana" font-size="12">city</text>
+	<text x="210" y="93.8" fill="#000000" font-family="Verdana" font-size="12">year</text>
+	<text x="210" y="110.8" fill="#000000" font-family="Verdana" font-size="12">isInternational</text>
+</g>
+</svg>
